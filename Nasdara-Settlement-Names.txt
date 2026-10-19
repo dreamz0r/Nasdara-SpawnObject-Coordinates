@@ -1,0 +1,72 @@
+Dashtabad - City
+Kamar Zir - Town
+Shah Yailaq - Town
+Bam-e Sabz - Town
+Pesh Kuh - Town
+Gandomabad - Town
+Khorramabad - Town
+Sabzabad - Town
+No Abad - Town
+Gard Abad - Town
+Kucha Dar - Town
+Bustanshahr - Town
+Dar-e Ardis - Town
+Shinkalay - Village
+Dehqankalay - Village
+Mal Kalay - Village
+Bagh-e Mir - Village
+Tut Dara - Village
+Anar Juy - Village
+Karizak - Village
+Chashme Sabz - Village
+Gul Zar - Village
+Sabz Pashan - Village
+Kati Golzar - Village
+Tor Dara - Village
+Mian Deh - Village
+Sar-e Deh - Village
+Pay-e Kuh - Village
+Bala Kalay - Village
+Payan Kalay - Village
+Qala-e Kuhna - Village
+Pir Kalay - Village
+Bazar-e Kohna - Village
+Darvazeh-e Gharb - Village
+Yak Chinar - Village
+Panj Asyab - Village
+Chahar Tut - Village
+Marz-e Lut - Village
+Pesh Dasht - Village
+Dahaneh-e Kavir - Village
+Kariz-e Marz - Village
+Manda Marz - Village
+Bad Asyab - Village
+Suvin Shahr - Village
+Mian Dara - Village
+Dara-e Nur - Village
+Gul Dara - Village
+Bagh-e Dara - Village
+Salar Abad - Village
+Tut Mian - Village
+Bar Kalay - Village
+Dost Kalay - Village
+Shinkay Wadi - Village
+Zir Dara - Village
+Khwakay - Village
+Gharibabad - Village
+Chashme No - Village
+Sabz Juy - Village
+Se Rah - Village
+Dukan Kalay - Village
+Wachakalay - Village
+Wacha Wadi - Village
+Sarkay - Village
+Sard Sarhad - Village
+Dahana - Village
+Nasdara - City
+Terminal Nas - Town
+Zun Dara - Village
+Nejcheh - Village
+Chuuya Kalay - Village
+Jakhzar - Village
+Varzaneh - Village
